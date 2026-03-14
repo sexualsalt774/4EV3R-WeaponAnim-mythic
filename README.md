@@ -1,5 +1,8 @@
-# 4EV3R-WeaponAnim
-New 2.0 Update
+# 4EV3R-WeaponAnim (Mythic)
+
+Credits to original author : [4EV3R](https://github.com/4EV3R/4EV3R-WeaponAnim)
+
+New Mythic Conversion Update
 
 ## Key Features:
 
