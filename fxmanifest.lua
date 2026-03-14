@@ -1,0 +1,11 @@
+fx_version 'cerulean'
+game 'gta5'
+
+author '4EV3R Scripts'
+description 'Weapon Holding Animation Script Made for mythic-inventory | Made by 4EV3R Scripts'
+version '2.0'
+
+client_scripts {
+    'client.lua',
+    'config.lua'
+}
