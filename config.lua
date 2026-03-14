@@ -34,6 +34,9 @@ Config.AnimWeapons = {
     WEAPON_WRENCH =             { enabled = false, twoHanded = false },
     KATANA =                    { enabled = false, twoHanded = false },
     SHIV =                      { enabled = false, twoHanded = false },
+    -- mythic-inventory weapon model overrides (used by ResolveWeaponConfig fallback)
+    WEAPON_KATANAS =            { enabled = false, twoHanded = false },
+    WEAPON_SHIV =               { enabled = false, twoHanded = false },
 
     -- Handguns (vanilla)
     WEAPON_PISTOL =             { enabled = true, twoHanded = false },
